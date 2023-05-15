@@ -5,5 +5,11 @@
 
 
 
-
+## LOGIN
 ![hasil](img/halaman_login.png)
+
+## REGISTER
+![hasil](img/halaman_register.png)
+
+## HOMEPAGE
+![hasil](img/halaman_homepage.png)
